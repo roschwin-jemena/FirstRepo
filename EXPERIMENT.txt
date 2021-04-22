@@ -1,1 +1,1 @@
-New feature file
+New feature and hotfix file
